@@ -5,5 +5,6 @@
     [Cost] INT NULL, 
     [Color] NVARCHAR(50) NULL, 
     [Rodolfo] NCHAR(10) NULL, 
-    [test] NCHAR(10) NULL 
+    [test] NCHAR(10) NULL, 
+    [test2] NCHAR(10) NULL 
 )
