@@ -7,5 +7,5 @@
     [Rodolfo] NCHAR(10) NULL, 
     [test] NCHAR(10) NULL, 
     [test2] NCHAR(10) NULL,
-    [test22] NCHAR(10) NULL
+    [test4] NCHAR(10) NULL
 )
