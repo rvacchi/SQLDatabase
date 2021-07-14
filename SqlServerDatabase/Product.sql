@@ -7,5 +7,5 @@
     [Rodolfo] NCHAR(10) NULL, 
     [test] NCHAR(10) NULL, 
     [test2] NCHAR(10) NULL,
-    [featureB] NCHAR(10) NULL
+    [branchC] NCHAR(10) NULL
 )
